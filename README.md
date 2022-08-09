@@ -1,6 +1,6 @@
 #Plant Store App UI Design
 
-## A plant store app UI design with sign in page and product details page.
+A plant store app UI design with sign in page and product details page.
 
 #Design Link
 
